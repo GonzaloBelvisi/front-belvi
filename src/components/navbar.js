@@ -18,6 +18,7 @@ export default function navbar() {
                         <li><a href="/Services">Servicios</a></li>
                         <li><a href="/Prices">Precios</a></li>
                         <li><a href="/Contact">Contactos</a></li>
+                        <li><a href="/Login">Login</a></li>
                     </ul>
                 </div>
             </nav>
